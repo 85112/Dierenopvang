@@ -1,0 +1,26 @@
+body {
+    background-color: silver;
+    color: black;
+    font-size: medium;
+}
+.Menu {
+    background: orangered;
+}
+a:link, a:visited {
+    background-color: orangered;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active {
+    background-color: white;
+    color: black;
+}
+#logout {
+    float:right;
+}
+#login{
+    float:right;
+}
